@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/azoulnews/static/css/main.16297ca6.chunk.css",
+    "main.js": "/azoulnews/static/js/main.e16afea3.chunk.js",
+    "main.js.map": "/azoulnews/static/js/main.e16afea3.chunk.js.map",
+    "runtime-main.js": "/azoulnews/static/js/runtime-main.946c47ef.js",
+    "runtime-main.js.map": "/azoulnews/static/js/runtime-main.946c47ef.js.map",
+    "static/css/2.015dc0ab.chunk.css": "/azoulnews/static/css/2.015dc0ab.chunk.css",
+    "static/js/2.032955e1.chunk.js": "/azoulnews/static/js/2.032955e1.chunk.js",
+    "static/js/2.032955e1.chunk.js.map": "/azoulnews/static/js/2.032955e1.chunk.js.map",
+    "static/js/3.62f14a2e.chunk.js": "/azoulnews/static/js/3.62f14a2e.chunk.js",
+    "static/js/3.62f14a2e.chunk.js.map": "/azoulnews/static/js/3.62f14a2e.chunk.js.map",
+    "index.html": "/azoulnews/index.html",
+    "static/css/2.015dc0ab.chunk.css.map": "/azoulnews/static/css/2.015dc0ab.chunk.css.map",
+    "static/css/main.16297ca6.chunk.css.map": "/azoulnews/static/css/main.16297ca6.chunk.css.map",
+    "static/js/2.032955e1.chunk.js.LICENSE.txt": "/azoulnews/static/js/2.032955e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.946c47ef.js",
+    "static/css/2.015dc0ab.chunk.css",
+    "static/js/2.032955e1.chunk.js",
+    "static/css/main.16297ca6.chunk.css",
+    "static/js/main.e16afea3.chunk.js"
+  ]
+}
